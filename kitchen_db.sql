@@ -466,4 +466,4 @@ insert into personnelviolations (violationid, staffid, violationtype, severityle
 insert into personnelviolations (violationid, staffid, violationtype, severitylevel, description_violation_details, violationdate, correctiveactiontaken) values (89, 18, 'Unsafe Knife Use', 'High', 'Staff failed to log sanitation duties', '2026-05-19', false);
 insert into personnelviolations (violationid, staffid, violationtype, severitylevel, description_violation_details, violationdate, correctiveactiontaken) values (90, 16, 'Dress Code Violation', 'Low', 'Staff failed to log sanitation duties', '2025-01-09', true);
 
--- End of unified script.
+
