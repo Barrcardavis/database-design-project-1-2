@@ -8,33 +8,87 @@ CREATE TABLE Consumables (
 	Consumable_calories INT,
 	Consumable_allergen VARCHAR(9)
 );
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (1, 'Kettle Corn Popcorn', '2025-02-12', '2024-11-09', 127, 6925.25, 4720, 'dairy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (2, 'Honey BBQ Ribs', '2024-12-22', '2025-05-03', 951, 7352.24, 4, 'shellfish');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (3, 'Roasted Sweet Corn', '2023-02-03', '2024-11-30', 74, 3128.65, 159, 'soy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (4, 'Whole Wheat Pita Bread', '2022-11-15', '2023-04-18', 583, 8245.04, 1700, 'shellfish');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (5, 'Ski Goggles', '2025-09-06', '2023-10-13', 381, 8054.1, 1436, 'gluten');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (6, 'Vegan Protein Powder', '2022-09-26', '2022-11-15', 62, 1395.77, 2381, 'dairy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (7, 'Adjustable Dumbbells', '2022-10-14', '2025-04-10', 28, 5688.22, 4940, 'dairy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (8, 'Cinnamon Raisin Bagels', '2025-01-11', '2024-03-29', 674, 6168.97, 3220, 'soy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (9, 'Slim Fit Chinos', '2025-02-25', '2022-10-07', 57, 5831.45, 3897, 'shellfish');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (10, 'Portable Charger with Solar Panel', '2024-06-22', '2025-09-13', 737, 2329.42, 2023, 'peanuts');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (11, 'Almond Joy Protein Bars', '2022-06-02', '2023-01-27', 599, 9660.61, 643, 'peanuts');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (12, 'Pepper Jack Cheese Sticks', '2023-06-30', '2023-11-17', 810, 5090.89, 634, 'dairy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (13, 'Coloring Books for Adults', '2022-03-10', '2024-11-25', 454, 3524.02, 1430, 'gluten');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (14, 'Roasted Red Pepper Sauce', '2025-05-31', '2023-09-29', 711, 4909.87, 3386, 'shellfish');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (15, 'Spice Rack', '2023-10-20', '2022-02-13', 735, 7669.17, 973, 'gluten');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (16, 'Pet Safety Harness', '2022-07-04', '2024-12-12', 726, 5535.21, 3872, 'peanuts');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (17, 'Reclining Camping Chair', '2024-12-27', '2024-04-15', 943, 4150.23, 1465, 'shellfish');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (18, 'Bamboo Bathtub Caddy', '2025-12-22', '2023-03-04', 39, 5047.05, 3322, 'dairy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (19, 'Dog Walking Waist Pack', '2025-02-09', '2023-08-22', 651, 5835.56, 4027, 'gluten');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (20, 'Bock Beer Mustard', '2022-01-17', '2022-08-07', 707, 7733.9, 1034, 'gluten');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (21, 'Breathable Face Mask Set', '2024-12-30', '2023-08-21', 650, 6619.97, 745, 'dairy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (22, 'Smartphone Holder for Car', '2022-05-20', '2022-01-31', 440, 279.34, 4151, 'gluten');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (23, 'Greek Yogurt Parfait', '2023-04-14', '2024-05-12', 413, 5549.01, 1183, 'peanuts');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (24, 'Fitness Jump Rope with LCD Counter', '2022-12-15', '2025-08-30', 268, 543.93, 86, 'shellfish');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (25, 'Laptop Stand', '2023-06-04', '2024-01-18', 341, 1130.47, 2654, 'peanuts');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (26, 'Dark Chocolate Almond Butter Cups', '2023-09-22', '2024-03-12', 225, 9899.2, 3345, 'dairy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (27, 'Set of Silicone Baking Molds', '2023-10-26', '2022-04-08', 486, 2290.31, 3623, 'gluten');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (28, 'Weighted Blanket', '2022-07-14', '2023-08-06', 908, 4952.89, 3195, 'soy');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (29, 'Sweet Chili Thai Sauce', '2025-06-23', '2024-05-11', 416, 7132.45, 1677, 'gluten');
-insert into Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) values (30, 'Portable Pet Stroller', '2025-06-10', '2025-11-11', 884, 1920.7, 1152, 'soy');
+
+INSERT INTO Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) VALUES
+(1, 'Chicken', '2025-11-10', '2025-10-31', 10, 5.99, 165, 'none'),
+(2, 'Beef', '2025-11-12', '2025-10-30', 8, 6.49, 250, 'none'),
+(3, 'Pork', '2025-11-08', '2025-10-29', 6, 5.29, 242, 'none'),
+(4, 'Salmon', '2025-11-05', '2025-10-31', 4, 9.99, 208, 'fish'),
+(5, 'Shrimp', '2025-11-06', '2025-10-30', 5, 12.49, 99, 'shellfish'),
+(6, 'Bacon', '2025-11-15', '2025-10-28', 7, 4.99, 43, 'none'),
+(7, 'Lobster', '2025-11-04', '2025-10-31', 3, 19.99, 89, 'shellfish'),
+(8, 'Ground beef', '2025-11-09', '2025-10-30', 10, 5.79, 270, 'none'),
+(9, 'Cream cheese', '2025-11-20', '2025-10-25', 6, 3.49, 99, 'dairy'),
+(10, 'Mozzarella', '2025-11-18', '2025-10-27', 5, 4.29, 85, 'dairy'),
+(11, 'Parmesan', '2025-12-01', '2025-10-26', 4, 6.99, 110, 'dairy'),
+(12, 'Ricotta', '2025-11-22', '2025-10-28', 3, 3.99, 174, 'dairy'),
+(13, 'Goat cheese', '2025-11-25', '2025-10-29', 2, 5.49, 103, 'dairy'),
+(14, 'Sour cream', '2025-11-19', '2025-10-30', 4, 2.99, 60, 'dairy'),
+(15, 'Butter', '2025-12-05', '2025-10-25', 6, 3.79, 102, 'dairy'),
+(16, 'Milk', '2025-11-07', '2025-10-31', 8, 2.49, 150, 'dairy'),
+(17, 'Heavy cream', '2025-11-10', '2025-10-30', 3, 3.99, 52, 'dairy'),
+(18, 'Spinach', '2025-11-03', '2025-10-31', 5, 1.99, 23, 'none'),
+(19, 'Artichoke hearts', '2025-12-10', '2025-10-30', 2, 4.59, 60, 'none'),
+(20, 'Mushrooms', '2025-11-06', '2025-10-31', 6, 2.49, 22, 'none'),
+(21, 'Tomatoes', '2025-11-05', '2025-10-31', 10, 1.89, 18, 'none'),
+(22, 'Basil', '2025-11-15', '2025-10-30', 3, 1.29, 5, 'none'),
+(23, 'Garlic', '2025-12-01', '2025-10-29', 4, 0.99, 4, 'none'),
+(24, 'Onions', '2025-11-20', '2025-10-28', 7, 1.49, 40, 'none'),
+(25, 'Carrots', '2025-11-10', '2025-10-31', 6, 1.29, 25, 'none'),
+(26, 'Celery', '2025-11-08', '2025-10-30', 5, 1.19, 16, 'none'),
+(27, 'Bell peppers', '2025-11-09', '2025-10-31', 6, 1.99, 30, 'none'),
+(28, 'Asparagus', '2025-11-07', '2025-10-30', 4, 3.49, 20, 'none'),
+(29, 'Zucchini', '2025-11-06', '2025-10-31', 5, 1.79, 17, 'none'),
+(30, 'Potatoes', '2025-12-15', '2025-10-25', 10, 2.49, 130, 'none'),
+(31, 'Lettuce', '2025-11-03', '2025-10-31', 5, 1.49, 15, 'none'),
+(32, 'Cabbage', '2025-11-10', '2025-10-30', 4, 1.29, 22, 'none'),
+(33, 'Ginger', '2025-12-01', '2025-10-29', 3, 2.99, 80, 'none'),
+(34, 'Scallions', '2025-11-05', '2025-10-31', 6, 1.19, 32, 'none'),
+(35, 'Dates', '2025-12-15', '2025-10-25', 5, 4.99, 277, 'none'),
+(36, 'Apples', '2025-11-20', '2025-10-30', 8, 0.99, 95, 'none'),
+(37, 'Lemons', '2025-11-25', '2025-10-29', 6, 0.89, 17, 'none'),
+(38, 'Berries (mixed)', '2025-11-07', '2025-10-31', 4, 3.99, 70, 'none'),
+(39, 'Vanilla beans', '2026-01-01', '2025-10-25', 2, 6.99, 12, 'none'),
+(40, 'Flour', '2026-03-01', '2025-10-25', 10, 2.49, 455, 'gluten'),
+(41, 'Sugar', '2026-04-01', '2025-10-25', 10, 1.99, 387, 'none'),
+(42, 'Brown sugar', '2026-04-01', '2025-10-25', 8, 2.29, 400, 'none'),
+(43, 'Cocoa powder', '2026-02-01', '2025-10-25', 5, 3.49, 196, 'none'),
+(44, 'Coffee', '2026-05-01', '2025-10-25', 6, 4.99, 2, 'none'),
+(45, 'Ladyfingers', '2025-12-01', '2025-10-25', 4, 3.99, 120, 'gluten'),
+(46, 'Breadcrumbs', '2026-01-01', '2025-10-25', 5, 2.49, 110, 'gluten'),
+(47, 'Panko', '2026-01-01', '2025-10-25', 5, 2.99, 118, 'gluten'),
+(48, 'Lasagna noodles', '2026-03-01', '2025-10-25', 6, 3.49, 210, 'gluten'),
+(49, 'Pasta', '2026-03-01', '2025-10-25', 10, 2.99, 200, 'gluten'),
+(50, 'Arborio rice', '2026-04-01', '2025-10-25', 5, 4.49, 170, 'none'),
+(51, 'Bread (baguette)', '2025-11-05', '2025-10-31', 4, 2.99, 250, 'gluten'),
+(52, 'Spring roll wrappers', '2025-12-01', '2025-10-25', 3, 3.49, 100, 'gluten'),
+(53, 'Olive oil', '2026-06-01', '2025-10-25', 2, 6.99, 119, 'none'),
+(54, 'Balsamic vinegar', '2026-06-01', '2025-10-25', 2, 5.49, 14, 'none'),
+(55, 'Soy sauce', '2026-05-01', '2025-10-25', 3, 3.99, 10, 'soy'),
+(56, 'Red wine', '2026-12-01', '2025-10-25', 2, 9.99, 125, 'none'),
+(57, 'Apple cider', '2025-12-01', '2025-10-25', 3, 4.99, 120, 'none'),
+(58, 'Honey', '2026-07-01', '2025-10-25', 2, 5.99, 64, 'none'),
+(59, 'Dijon mustard', '2026-01-01', '2025-10-25', 2, 3.49, 15, 'none'),
+(60, 'Marsala wine', '2026-12-01', '2025-10-25', 2, 8.99, 140, 'none'),
+(61, 'Truffle oil', '2026-06-01', '2025-10-25', 1, 12.99, 120, 'none'),
+(62, 'Capers', '2026-01-01', '2025-10-25', 2, 3.99, 2, 'none'),
+(63, 'Rosemary', '2025-12-01', '2025-10-25', 3, 1.99, 5, 'none'),
+(64, 'Thyme', '2025-12-01', '2025-10-25', 3, 1.99, 5, 'none'),
+(65, 'Oregano', '2025-12-01', '2025-10-25', 3, 1.99, 5, 'none'),
+(66, 'Dill', '2025-12-01', '2025-10-25', 3, 1.99, 5, 'none'),
+(67, 'Parsley', '2025-12-01', '2025-10-25', 3, 1.99, 5, 'none'),
+(68, 'Cinnamon', '2026-01-01', '2025-10-25', 2, 2.99, 6, 'none'),
+(69, 'Nutmeg', '2026-01-01', '2025-10-25', 2, 2.99, 12, 'none'),
+(70, 'Salt', '2026-12-01', '2025-10-25', 5, 0.99, 0, 'none'),
+(71, 'Black pepper', '2026-12-01', '2025-10-25', 5, 1.49, 0, 'none'),
+(72, 'Red pepper flakes', '2026-12-01', '2025-10-25', 5, 1.49, 6, 'none'),
+(73, 'Eggs', '2025-11-10', '2025-10-31', 12, 2.99, 70, 'egg'),
+(74, 'Baking powder', '2026-03-01', '2025-10-25', 2, 1.99, 0, 'none'),
+(75, 'Baking soda', '2026-03-01', '2025-10-25', 2, 1.49, 0, 'none'),
+(76, 'Graham crackers', '2025-12-01', '2025-10-25', 4, 3.49, 130, 'gluten'),
+(77, 'Powdered sugar', '2026-04-01', '2025-10-25', 5, 2.49, 400, 'none'),
+(78, 'Cocoa', '2026-02-01', '2025-10-25', 4, 3.49, 196, 'none'),
+(79, 'Mascarpone', '2025-11-20', '2025-10-30', 2, 4.99, 120, 'dairy'),
+(80, 'Ice cream (vanilla)', '2025-11-30', '2025-10-25', 3, 5.49, 207, 'dairy'),
+(81, 'Macaroni', '2026-03-01', '2025-10-25', 6, 2.99, 210, 'gluten'),
+(82, 'Cheddar cheese', '2025-11-25', '2025-10-30', 5, 4.49, 113, 'dairy');
