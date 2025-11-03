@@ -1,0 +1,83 @@
+consumable_id,consumable_name,consumable_expiration_date,consumable_initial_date,consumable_quantity,consumable_price,consumable_calories,consumable_allergen,supplier_id
+1,Chicken,2025-11-10,2025-10-31,10,5.99,165,none,NULL
+2,Beef,2025-11-12,2025-10-30,8,6.49,250,none,NULL
+3,Pork,2025-11-08,2025-10-29,6,5.29,242,none,NULL
+4,Salmon,2025-11-05,2025-10-31,4,9.99,208,fish,NULL
+5,Shrimp,2025-11-06,2025-10-30,5,12.49,99,shellfish,NULL
+6,Bacon,2025-11-15,2025-10-28,7,4.99,43,none,NULL
+7,Lobster,2025-11-04,2025-10-31,3,19.99,89,shellfish,NULL
+8,"Ground beef",2025-11-09,2025-10-30,10,5.79,270,none,NULL
+9,"Cream cheese",2025-11-20,2025-10-25,6,3.49,99,dairy,NULL
+10,Mozzarella,2025-11-18,2025-10-27,5,4.29,85,dairy,NULL
+11,Parmesan,2025-12-01,2025-10-26,4,6.99,110,dairy,NULL
+12,Ricotta,2025-11-22,2025-10-28,3,3.99,174,dairy,NULL
+13,"Goat cheese",2025-11-25,2025-10-29,2,5.49,103,dairy,NULL
+14,"Sour cream",2025-11-19,2025-10-30,4,2.99,60,dairy,NULL
+15,Butter,2025-12-05,2025-10-25,6,3.79,102,dairy,NULL
+16,Milk,2025-11-07,2025-10-31,8,2.49,150,dairy,NULL
+17,"Heavy cream",2025-11-10,2025-10-30,3,3.99,52,dairy,NULL
+18,Spinach,2025-11-03,2025-10-31,5,1.99,23,none,NULL
+19,"Artichoke hearts",2025-12-10,2025-10-30,2,4.59,60,none,NULL
+20,Mushrooms,2025-11-06,2025-10-31,6,2.49,22,none,NULL
+21,Tomatoes,2025-11-05,2025-10-31,10,1.89,18,none,NULL
+22,Basil,2025-11-15,2025-10-30,3,1.29,5,none,NULL
+23,Garlic,2025-12-01,2025-10-29,4,0.99,4,none,NULL
+24,Onions,2025-11-20,2025-10-28,7,1.49,40,none,NULL
+25,Carrots,2025-11-10,2025-10-31,6,1.29,25,none,NULL
+26,Celery,2025-11-08,2025-10-30,5,1.19,16,none,NULL
+27,"Bell peppers",2025-11-09,2025-10-31,6,1.99,30,none,NULL
+28,Asparagus,2025-11-07,2025-10-30,4,3.49,20,none,NULL
+29,Zucchini,2025-11-06,2025-10-31,5,1.79,17,none,NULL
+30,Potatoes,2025-12-15,2025-10-25,10,2.49,130,none,NULL
+31,Lettuce,2025-11-03,2025-10-31,5,1.49,15,none,NULL
+32,Cabbage,2025-11-10,2025-10-30,4,1.29,22,none,NULL
+33,Ginger,2025-12-01,2025-10-29,3,2.99,80,none,NULL
+34,Scallions,2025-11-05,2025-10-31,6,1.19,32,none,NULL
+35,Dates,2025-12-15,2025-10-25,5,4.99,277,none,NULL
+36,Apples,2025-11-20,2025-10-30,8,0.99,95,none,NULL
+37,Lemons,2025-11-25,2025-10-29,6,0.89,17,none,NULL
+38,"Berries (mixed)",2025-11-07,2025-10-31,4,3.99,70,none,NULL
+39,"Vanilla beans",2026-01-01,2025-10-25,2,6.99,12,none,NULL
+40,Flour,2026-03-01,2025-10-25,10,2.49,455,gluten,NULL
+41,Sugar,2026-04-01,2025-10-25,10,1.99,387,none,NULL
+42,"Brown sugar",2026-04-01,2025-10-25,8,2.29,400,none,NULL
+43,"Cocoa powder",2026-02-01,2025-10-25,5,3.49,196,none,NULL
+44,Coffee,2026-05-01,2025-10-25,6,4.99,2,none,NULL
+45,Ladyfingers,2025-12-01,2025-10-25,4,3.99,120,gluten,NULL
+46,Breadcrumbs,2026-01-01,2025-10-25,5,2.49,110,gluten,NULL
+47,Panko,2026-01-01,2025-10-25,5,2.99,118,gluten,NULL
+48,"Lasagna noodles",2026-03-01,2025-10-25,6,3.49,210,gluten,NULL
+49,Pasta,2026-03-01,2025-10-25,10,2.99,200,gluten,NULL
+50,"Arborio rice",2026-04-01,2025-10-25,5,4.49,170,none,NULL
+51,"Bread (baguette)",2025-11-05,2025-10-31,4,2.99,250,gluten,NULL
+52,"Spring roll wrappers",2025-12-01,2025-10-25,3,3.49,100,gluten,NULL
+53,"Olive oil",2026-06-01,2025-10-25,2,6.99,119,none,NULL
+54,"Balsamic vinegar",2026-06-01,2025-10-25,2,5.49,14,none,NULL
+55,"Soy sauce",2026-05-01,2025-10-25,3,3.99,10,soy,NULL
+56,"Red wine",2026-12-01,2025-10-25,2,9.99,125,none,NULL
+57,"Apple cider",2025-12-01,2025-10-25,3,4.99,120,none,NULL
+58,Honey,2026-07-01,2025-10-25,2,5.99,64,none,NULL
+59,"Dijon mustard",2026-01-01,2025-10-25,2,3.49,15,none,NULL
+60,"Marsala wine",2026-12-01,2025-10-25,2,8.99,140,none,NULL
+61,"Truffle oil",2026-06-01,2025-10-25,1,12.99,120,none,NULL
+62,Capers,2026-01-01,2025-10-25,2,3.99,2,none,NULL
+63,Rosemary,2025-12-01,2025-10-25,3,1.99,5,none,NULL
+64,Thyme,2025-12-01,2025-10-25,3,1.99,5,none,NULL
+65,Oregano,2025-12-01,2025-10-25,3,1.99,5,none,NULL
+66,Dill,2025-12-01,2025-10-25,3,1.99,5,none,NULL
+67,Parsley,2025-12-01,2025-10-25,3,1.99,5,none,NULL
+68,Cinnamon,2026-01-01,2025-10-25,2,2.99,6,none,NULL
+69,Nutmeg,2026-01-01,2025-10-25,2,2.99,12,none,NULL
+70,Salt,2026-12-01,2025-10-25,5,0.99,0,none,NULL
+71,"Black pepper",2026-12-01,2025-10-25,5,1.49,0,none,NULL
+72,"Red pepper flakes",2026-12-01,2025-10-25,5,1.49,6,none,NULL
+73,Eggs,2025-11-10,2025-10-31,12,2.99,70,egg,NULL
+74,"Baking powder",2026-03-01,2025-10-25,2,1.99,0,none,NULL
+75,"Baking soda",2026-03-01,2025-10-25,2,1.49,0,none,NULL
+76,"Graham crackers",2025-12-01,2025-10-25,4,3.49,130,gluten,NULL
+77,"Powdered sugar",2026-04-01,2025-10-25,5,2.49,400,none,NULL
+78,Cocoa,2026-02-01,2025-10-25,4,3.49,196,none,NULL
+79,Mascarpone,2025-11-20,2025-10-30,2,4.99,120,dairy,NULL
+80,"Ice cream (vanilla)",2025-11-30,2025-10-25,3,5.49,207,dairy,NULL
+81,Macaroni,2026-03-01,2025-10-25,6,2.99,210,gluten,NULL
+82,"Cheddar cheese",2025-11-25,2025-10-30,5,4.49,113,dairy,NULL
