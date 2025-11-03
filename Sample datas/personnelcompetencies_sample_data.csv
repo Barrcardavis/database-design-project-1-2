@@ -1,0 +1,31 @@
+competencyid,staffid,competencyname,iscertified,issueddate,expirydate,issuingauthority
+1,2,Saute,1,2020-04-03,2026-06-02,OSHA
+2,30,"OSHA Kitchen Safety",1,2020-12-04,2026-11-15,"State Health Dept"
+3,27,"OSHA Kitchen Safety",1,2023-04-22,2026-07-20,ServSafe
+4,13,Pastry,0,2025-05-07,2026-08-20,OSHA
+5,20,Pastry,0,2025-06-29,2026-07-11,"Internal Training"
+6,25,Saute,0,2022-07-30,2026-03-09,ServSafe
+7,17,Saute,0,2024-01-20,2024-12-01,OSHA
+8,12,"Food Handler Permit",1,2021-01-12,2025-12-27,"State Health Dept"
+9,27,Saute,1,2022-06-21,2025-02-16,"State Health Dept"
+10,14,"OSHA Kitchen Safety",0,2024-08-06,2026-07-12,OSHA
+11,5,Pastry,1,2020-08-12,2026-01-13,"Internal Training"
+12,5,Pastry,0,2022-03-26,2025-11-28,"Internal Training"
+13,21,Pastry,1,2022-06-09,2026-01-10,"State Health Dept"
+14,22,Pastry,1,2020-09-08,2025-11-13,OSHA
+15,2,"OSHA Kitchen Safety",0,2025-07-14,2024-11-23,"State Health Dept"
+16,20,"Knife Safety",1,2021-03-05,2025-09-16,"State Health Dept"
+17,14,Pastry,0,2025-07-28,2025-12-10,"Internal Training"
+18,30,Pastry,1,2020-06-07,2026-12-11,"State Health Dept"
+19,23,"Food Handler Permit",0,2024-07-22,2024-11-08,"Internal Training"
+20,6,"OSHA Kitchen Safety",1,2022-01-15,2025-07-15,OSHA
+21,5,Saute,0,2020-01-10,2025-08-21,"State Health Dept"
+22,30,Pastry,0,2020-06-05,2025-11-08,"Internal Training"
+23,1,Saute,1,2024-06-08,2026-01-08,ServSafe
+24,22,"OSHA Kitchen Safety",0,2025-09-09,2026-03-21,ServSafe
+25,18,Pastry,0,2021-05-08,2026-05-02,"State Health Dept"
+26,24,"OSHA Kitchen Safety",1,2021-10-24,2025-02-20,ServSafe
+27,2,"OSHA Kitchen Safety",0,2024-03-06,2026-04-17,OSHA
+28,11,Pastry,1,2023-08-17,2025-04-11,ServSafe
+29,17,"Knife Safety",1,2021-07-02,2024-10-30,"Internal Training"
+30,6,Pastry,1,2021-12-20,2026-11-20,ServSafe
