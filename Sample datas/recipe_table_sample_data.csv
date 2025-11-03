@@ -1,0 +1,61 @@
+Recipe_id,Recipe_name,Ingredients,Catagory
+1,"Surf and Turf Platter",Berries,Entree
+2,Tiramisu,Dates,Appetizer
+3,"Bacon-Wrapped Dates","Heavy cream",Special
+4,"Crispy Spring Rolls","Cheddar cheese",Dessert
+5,"Herb-Roasted Chicken      Beef Bourguignon Stew      Grilled Salmon with Lemon Dill",Nutmeg,Entree
+6,"New York Cheesecake",Sugar,Appetizer
+7,"Mushroom Risotto",Ricotta,Special
+8,"Mushroom Risotto","Ground beef",Dessert
+9,"Stuffed Mushroom Caps",Lobster,Entree
+10,"Spinach Artichoke Dip",Berries,Appetizer
+11,"Herb-Roasted Chicken      Beef Bourguignon Stew      Grilled Salmon with Lemon Dill",Tomatoes,Special
+12,Tiramisu,Bread,Dessert
+13,"Vegetable Lasagna","Truffle oil",Entree
+14,"Shrimp Scampi Pasta",Oregano,Appetizer
+15,Tiramisu,Lettuce,Special
+16,"Herb-Roasted Chicken      Beef Bourguignon Stew      Grilled Salmon with Lemon Dill","Apple cider",Dessert
+17,"Stuffed Mushroom Caps","Arborio rice",Entree
+18,"Surf and Turf Platter",Mozzarella,Appetizer
+19,"Pork Tenderloin with Apple Glaze",Onions,Special
+20,Tiramisu,Butter,Dessert
+21,"Stuffed Mushroom Caps","Arborio rice",Entree
+22,"Stuffed Mushroom Caps",Celery,Appetizer
+23,"Pork Tenderloin with Apple Glaze","Balsamic vinegar",Special
+24,"Surf and Turf Platter","Sour cream",Dessert
+25,"Surf and Turf Platter","Vanilla beans",Entree
+26,"Chef's Seasonal Special (changes weekly)","Cheddar cheese",Appetizer
+27,"Bruschetta with Tomato Basil",Potatoes,Special
+28,"Herb-Roasted Chicken      Beef Bourguignon Stew      Grilled Salmon with Lemon Dill","Graham crackers",Dessert
+29,"Vegetable Lasagna",Bacon,Entree
+30,"Apple Pie with Vanilla Ice Cream","Arborio rice",Appetizer
+1,"Surf and Turf Platter",Berries,Entree
+2,Tiramisu,Dates,Appetizer
+3,"Bacon-Wrapped Dates","Heavy cream",Special
+4,"Crispy Spring Rolls","Cheddar cheese",Dessert
+5,"Herb-Roasted Chicken      Beef Bourguignon Stew      Grilled Salmon with Lemon Dill",Nutmeg,Entree
+6,"New York Cheesecake",Sugar,Appetizer
+7,"Mushroom Risotto",Ricotta,Special
+8,"Mushroom Risotto","Ground beef",Dessert
+9,"Stuffed Mushroom Caps",Lobster,Entree
+10,"Spinach Artichoke Dip",Berries,Appetizer
+11,"Herb-Roasted Chicken      Beef Bourguignon Stew      Grilled Salmon with Lemon Dill",Tomatoes,Special
+12,Tiramisu,Bread,Dessert
+13,"Vegetable Lasagna","Truffle oil",Entree
+14,"Shrimp Scampi Pasta",Oregano,Appetizer
+15,Tiramisu,Lettuce,Special
+16,"Herb-Roasted Chicken      Beef Bourguignon Stew      Grilled Salmon with Lemon Dill","Apple cider",Dessert
+17,"Stuffed Mushroom Caps","Arborio rice",Entree
+18,"Surf and Turf Platter",Mozzarella,Appetizer
+19,"Pork Tenderloin with Apple Glaze",Onions,Special
+20,Tiramisu,Butter,Dessert
+21,"Stuffed Mushroom Caps","Arborio rice",Entree
+22,"Stuffed Mushroom Caps",Celery,Appetizer
+23,"Pork Tenderloin with Apple Glaze","Balsamic vinegar",Special
+24,"Surf and Turf Platter","Sour cream",Dessert
+25,"Surf and Turf Platter","Vanilla beans",Entree
+26,"Chef's Seasonal Special (changes weekly)","Cheddar cheese",Appetizer
+27,"Bruschetta with Tomato Basil",Potatoes,Special
+28,"Herb-Roasted Chicken      Beef Bourguignon Stew      Grilled Salmon with Lemon Dill","Graham crackers",Dessert
+29,"Vegetable Lasagna",Bacon,Entree
+30,"Apple Pie with Vanilla Ice Cream","Arborio rice",Appetizer
