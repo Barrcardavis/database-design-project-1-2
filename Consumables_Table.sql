@@ -1,5 +1,5 @@
 CREATE TABLE Consumables (
-	Consumable_id INT,
+	Consumable_id INT AUTO_INCREMENT PRIMARY KEY,
 	consumable_name VARCHAR(50),
 	Consumable_expiration_date DATE,
 	Consumable_initial_date DATE,
