@@ -1,0 +1,31 @@
+staffid,firstname,lastname,staffrole,certification,phone,email,hiredate,stationassigned
+1,Lorianne,Upham,Bartender,"Food Handler Permit",900-345-7077,lupham0@php.net,2024-12-31,"Dish Pit"
+2,Jemima,Bandt,"Garde Manger","ServSafe Manager",389-659-3745,jbandt1@live.com,2025-03-25,Pastry
+3,Ethyl,Hancill,"Pantry Cook","OSHA Kitchen Safety",699-789-1607,ehancill2@xinhuanet.com,2025-01-02,"Cold Prep"
+4,Lenard,Anthoney,"Fryer Operator","Allergen Safety",866-274-3597,lanthoney3@gizmodo.com,2024-11-23,"Garde Manger"
+5,Vin,Grayne,"Pantry Cook","ServSafe Manager",895-597-4223,vgrayne4@clickbank.net,2024-12-31,Saucier
+6,Liana,Golborn,Expediter,"ServSafe Manager",911-570-8741,lgolborn5@cam.ac.uk,2025-04-16,"Hot Line"
+7,Minnie,Enriquez,Server,"OSHA Kitchen Safety",911-299-7890,menriquez6@globo.com,2025-04-27,Expediting
+8,Vickie,Joll,Host,"Allergen Safety",604-185-2857,vjoll7@spiegel.de,2025-08-31,Fryer
+9,Homer,Navarijo,"Garde Manger","ServSafe Manager",611-569-2640,hnavarijo8@microsoft.com,2024-11-29,Grill
+10,Chris,Bruckenthal,Saucier,"Allergen Safety",381-986-2135,cbruckenthal9@uol.com.br,2025-06-24,Fryer
+11,Wald,Cheyenne,Server,"Food Handler Permit",511-890-7185,wcheyennea@accuweather.com,2025-09-03,"Dish Pit"
+12,Ammamaria,Winthrop,Saucier,"Allergen Safety",314-898-8752,awinthropb@cloudflare.com,2025-02-07,Pantry
+13,Oliviero,Nornable,Server,"ServSafe Manager",794-341-4630,onornablec@sourceforge.net,2024-12-16,Saucier
+14,Rahal,Corbert,"Pantry Cook","Knife Safety Training",287-499-4247,rcorbertd@netvibes.com,2025-04-19,"Dish Pit"
+15,Dannye,Goadbie,"Pastry Chef","HACCP Level 1",130-784-2811,dgoadbiee@issuu.com,2025-03-26,Saucier
+16,Tanny,Humbatch,Barback,"Allergen Safety",356-346-4549,thumbatchf@jimdo.com,2025-03-22,Pantry
+17,Tomi,Benezeit,Bartender,"HACCP Level 1",253-274-0408,tbenezeitg@addtoany.com,2025-10-23,Saucier
+18,Carlotta,"Von Brook","Garde Manger","ServSafe Manager",192-398-7952,cvonbrookh@cbsnews.com,2025-09-18,Grill
+19,Ambur,Andries,"Pastry Chef","HACCP Level 1",595-356-6119,aandriesi@samsung.com,2025-03-17,"Dish Pit"
+20,Addy,Defond,Bartender,"Allergen Safety",113-628-1916,adefondj@youtu.be,2025-02-27,"Hot Line"
+21,Goraud,Olohan,"Sous Chef","Allergen Safety",716-879-0506,golohank@booking.com,2025-01-20,Grill
+22,Irwin,Abrahmovici,"Line Cook","ServSafe Manager",324-663-2199,iabrahmovicil@discuz.net,2025-05-23,Expediting
+23,Emmy,Schapero,"Prep Cook","Allergen Safety",141-579-4362,eschaperom@google.pl,2024-12-19,Grill
+24,Marti,Fance,"Sous Chef","ServSafe Manager",206-512-5299,mfancen@netvibes.com,2025-04-12,Pastry
+25,Bjorn,Lemmanbie,"Pastry Chef","Knife Safety Training",822-100-7576,blemmanbieo@netlog.com,2024-12-06,Fryer
+26,Sosanna,Covotto,Saucier,"OSHA Kitchen Safety",623-947-7412,scovottop@facebook.com,2025-02-08,Pantry
+27,Raynard,Gullivan,"Fryer Operator","Food Handler Permit",661-385-2462,rgullivanq@independent.co.uk,2025-06-07,"Cold Prep"
+28,Nathanial,Silverwood,"Sous Chef","Food Handler Permit",949-415-5481,nsilverwoodr@meetup.com,2025-04-25,"Hot Line"
+29,Drud,Castellone,Saucier,"Food Handler Permit",289-564-5028,dcastellones@vk.com,2024-11-18,Pantry
+30,Jobi,Abadam,"Executive Chef","ServSafe Manager Certification",611-578-9922,jabadamt@goo.gl,2025-04-16,Expediting
