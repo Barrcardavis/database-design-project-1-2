@@ -1,6 +1,7 @@
 ## Team 1 Database-design-project-1-2
 ### Kitchen Health Inspection database 
 ### This team consists of David, Ryan, Tijan, & Evalyn.
+### Technologies used MySQL Workbench, Github.com
 
 #### In This assignment there was two parts. Part one was to perform the following:
 ##### - Define the use case - Selected a relational database per assignment to support normalized schemas & foreign key constraints.
