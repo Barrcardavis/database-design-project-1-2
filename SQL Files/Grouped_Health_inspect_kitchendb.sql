@@ -372,7 +372,7 @@ insert into Consumables (Consumable_id, Consumable_expiration_date, Consumable_i
 # Added StaffID as foreign key to link to Kitchen_Personnel table. 
 
 CREATE TABLE Recipe_Table (
-  Recipe_id INT AUTO_INCREMENT PRIMARY KEY,
+  recipe_id INT AUTO_INCREMENT PRIMARY KEY,
   Recipe_name VARCHAR(83) NOT NULL,
   Ingredients TEXT,
   Category VARCHAR(20),
