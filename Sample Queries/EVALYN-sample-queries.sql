@@ -14,7 +14,7 @@ SELECT * FROM consumable_list LIMIT 50;
 
 -- View showing recipes along with consumable allergens
 CREATE VIEW recipe_consumable_view AS 
-SELECT Recipe_id, Recipe_name, Ingredients, Consumable_allergen
+SELECT recipe_id, Recipe_name, Ingredients, Consumable_allergen
 FROM recipe_table
 	JOIN consumables USING(Recipe_id);
 -- testing view:
@@ -24,4 +24,4 @@ SELECT * FROM recipe_consumable_view LIMIT 5;
 CREATE INDEX idx_consumable_name ON consumables(Consumable_name);
 
 -- created a composite index on consumables.Recipe_id and Consumable_expiration_date
-CREATE INDEX idx_recipe_expiration ON consumables(Recipe_id, Consumable_expiration_date);
+CREATE INDEX idx_recipe_expiration ON consumables(recipe_id, Consumable_expiration_date);
