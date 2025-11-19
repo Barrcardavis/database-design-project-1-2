@@ -3,10 +3,10 @@ CREATE TABLE Consumables (
 	consumable_name VARCHAR(50),
 	Consumable_expiration_date DATE,
 	Consumable_initial_date DATE,
-	Consumable_quantity INT,
+	Consumable_quantity INT CHECK (Consumable_quantity >= 0),
 	Consumable_price DECIMAL(9,2),
-	Consumable_calories INT,
-	Consumable_allergen VARCHAR(9)
+	Consumable_calories INT CHECK (Consumable_calories >= 0),
+	Consumable_allergen VARCHAR(50)
 );
 
 INSERT INTO Consumables (Consumable_id, consumable_name, Consumable_expiration_date, Consumable_initial_date, Consumable_quantity, Consumable_price, Consumable_calories, Consumable_allergen) VALUES
