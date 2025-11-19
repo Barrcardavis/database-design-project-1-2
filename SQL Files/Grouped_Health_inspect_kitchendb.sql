@@ -564,3 +564,37 @@ CREATE TABLE Recipe_Consumables_Suppliers (
   FOREIGN KEY (consumable_id) REFERENCES Consumables(consumable_id),
   FOREIGN KEY (supplier_id) REFERENCES suppliers(supplier_id)
 );
+
+# Inserting data into table
+
+INSERT INTO Recipe_Table (Recipe_name, Ingredients, Category, Recipe_creation_date, Recipe_difficulty_level, StaffID) VALUES
+('Surf and Turf Platter', 'Berries', 'Entree', '2023-10-28', 'easy', 1),
+('Tiramisu', 'Cream cheese', 'Dessert', '2022-03-10', 'medium', 2),
+('Bacon-Wrapped Dates', 'Heavy cream', 'Special', '2022-11-25', 'easy', 3),
+('Crispy Spring Rolls', 'Cheddar cheese', 'Special', '2023-01-15', 'medium', 4),
+('Herb-Roasted Chicken', 'Red wine', 'Entree', '2023-09-10', 'easy', 5),
+('New York Cheesecake', 'Beef Bourguignon Stew', 'Dessert', '2022-12-01', 'medium', 6),
+('Mushroom Risotto', 'Ground beef', 'Entree', '2023-06-18', 'easy', 7),
+('Stuffed Mushroom Caps', 'Berries', 'Special', '2023-07-22', 'medium', 8),
+('Spinach Artichoke Dip', 'Tomatoes', 'Special', '2022-08-30', 'easy', 9),
+('Herb-Roasted Chicken', 'Beef Bourguignon Stew', 'Entree', '2023-10-28', 'medium', 10),
+('Vegetable Lasagna', 'Truffle oil', 'Entree', '2023-05-14', 'easy', 11),
+('Shrimp Scampi Pasta', 'Ground beef', 'Entree', '2023-03-19', 'medium', 12),
+('Tiramisu', 'Berries', 'Dessert', '2022-03-10', 'easy', 13),
+('Herb-Roasted Chicken', 'Beef Bourguignon Stew', 'Dessert', '2022-07-17', 'easy', 18),
+('Stuffed Mushroom Caps', 'Arborio rice', 'Dessert', '2022-07-17', 'Hard', 17),
+('Stuffed Mushroom Caps', 'Arborio rice', 'Dessert', '2022-07-17', 'Hard', 17),
+('Surf and Turf Platter', 'Pork Tenderloin', 'Dessert', '2022-07-17', 'Hard', 17),
+('Pork Tenderloin with Apple Glaze', 'Arborio rice', 'Dessert', '2023-05-16', 'easy', 18),
+('Tiramisu', 'Butter', 'Dessert', '2023-05-16', 'easy', 18),
+('Stuffed Mushroom Caps', 'Arborio rice', 'Dessert', '2023-05-16', 'Hard', 17),
+('Pork Tenderloin with Apple Glaze', 'Balsamic vinegar', 'Dessert', '2023-05-16', 'Hard', 17),
+('Surf and Turf Platter', 'Vanilla beans', 'Dessert', '2023-05-16', 'Hard', 17),
+('Chef\'s Seasonal Special (changes weekly)', 'Vanilla beans', 'Dessert', '2023-05-16', 'easy', 18),
+('Bruschetta with Tomato Basil', 'Potatoes', 'Dessert', '2023-05-16', 'Hard', 17),
+('Vegetable Lasagna', 'Grapes', 'Dessert', '2023-05-16', 'Hard', 17),
+('Apple Pie with Vanilla Ice Cream', 'Vanilla Ice Cream', 'Dessert', '2023-05-16', 'easy', 18),
+('Grilled Salmon with Lemon Butter', 'Salmon, lemon, butter', 'Entree', '2023-06-01', 'medium', 19),
+('Eggplant Parmesan', 'Eggplant, mozzarella, tomato sauce', 'Entree', '2023-06-02', 'easy', 20),
+('Chocolate Lava Cake', 'Chocolate, flour, eggs', 'Dessert', '2023-06-03', 'hard', 21),
+('Caprese Salad', 'Tomatoes, mozzarella, basil', 'Appetizer', '2023-06-04', 'easy', 22);
