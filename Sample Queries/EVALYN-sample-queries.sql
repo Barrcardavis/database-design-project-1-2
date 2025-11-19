@@ -13,10 +13,14 @@ FROM consumables;
 SELECT * FROM consumable_list LIMIT 50;
 
 -- View showing recipes along with consumable allergens
-CREATE VIEW recipe_consumable_view AS 
-SELECT recipe_id, Recipe_name, Ingredients, Consumable_allergen
-FROM recipe_table
-	JOIN consumables USING(Recipe_id);
+CREATE OR REPLACE VIEW recipe_consumable_view AS 
+SELECT r.recipe_id, r.Recipe_name, r.Ingredients, c.Consumable_allergen
+FROM recipe_table r
+JOIN Recipe_Consumables_Suppliers rcs
+	ON r.recipe_id = rcs.recipe_id
+JOIN Consumables c
+	ON rcs.consumable_id = c.consumable_id
+	
 -- testing view:
 SELECT * FROM recipe_consumable_view LIMIT 5;
 
